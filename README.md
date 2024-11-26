@@ -68,11 +68,8 @@ Para instalar as dependências, execute:
 
 ```bash
 pip install -r requirements.txt
+```
 
-
-## Como Clonar o Repositório
-
-Para obter uma cópia local do projeto, siga os passos abaixo:
 
 ```bash
 # Clone o repositório
@@ -81,7 +78,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 # Navegue para o diretório do projeto
 cd seu-repositorio
 
-
+```
 
 
 # Licença
