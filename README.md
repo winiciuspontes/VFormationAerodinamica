@@ -10,40 +10,40 @@ Este repositório contém a implementação de métodos baseados na Teoria da Li
 
 A teoria de Prandtl modela a sustentação e o arrasto de asas finitas utilizando o conceito de **vórtices de ferradura**. A circulação ao longo da asa é representada por uma série de Fourier, permitindo determinar os coeficientes aerodinâmicos:
 
-\[
+$$
 \alpha(y_0) = \frac{\Gamma(y_0)}{\pi V_\infty c(y_0)} + \alpha_{L=0}(y_0) + \frac{1}{4\pi V_\infty} \int_{-b/2}^{b/2} \frac{d\Gamma/dy \, dy}{y_0 - y}
-\]
+$$
 
 A solução desta equação fornece:
 
 1. **Coeficiente de Sustentação**:
-   \[
+   $$
    C_L = A_1 \pi \frac{b}{S} = A_1 \pi AR
-   \]
+   $$
 
 2. **Coeficiente de Arrasto Induzido**:
-   \[
+   $$
    C_{D,i} = \frac{C_L^2}{\pi AR}
-   \]
+   $$
 
 3. **Efeito do Alongamento**:
-   \[
+   $$
    C_D = C_{D,i} + C_{D,0}
-   \]
+   $$
 
 ### Voo em Formação e Benefícios Aerodinâmicos
 
 No voo em formação, o efeito de **upwash** gerado pela asa líder proporciona ganhos de sustentação para as aeronaves seguidoras. Isso ocorre devido à rotação do vetor de força aerodinâmica, reduzindo o arrasto induzido:
 
-\[
+$$
 \Delta L = D \sin(\alpha), \quad \Delta D = L \sin(\alpha)
-\]
+$$ 
 
 A eficiência é mensurada pela redução percentual de arrasto:
 
-\[
+$$
 \text{Redução Percentual de Arrasto} = \frac{\Delta D}{D_{\text{base}}} \times 100
-\]
+$$
 
 ### Aplicação Prática
 
