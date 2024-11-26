@@ -47,7 +47,7 @@ $$
 
 ### Aplicação Prática
 
-Estudos como o de [1] demonstram que a formação em V é ideal para maximizar a redução de arrasto, ajustando o espaçamento longitudinal e a inclinação relativa entre as aeronaves.
+Este trabalho tem o objetivo de demonstrar que a formação em V é ideal para maximizar a redução de arrasto, ajustando o espaçamento longitudinal e a inclinação relativa entre as aeronaves.
 
 ---
 
@@ -55,9 +55,7 @@ Estudos como o de [1] demonstram que a formação em V é ideal para maximizar a
 
 ### Diretórios
 
-- **`src/`**: Scripts principais do projeto.
 - **`output/`**: Diretório para salvar gráficos e resultados gerados.
-- **`docs/`**: Documentação detalhada do projeto.
 - **`requirements.txt`**: Arquivo com as dependências necessárias.
 
 ---
