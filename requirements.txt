@@ -1,0 +1,71 @@
+asttokens==2.4.1
+Bottleneck @ file:///croot/bottleneck_1731058641041/work
+cachetools==5.5.0
+click==8.1.7
+cloudpickle==3.0.0
+comm==0.2.2
+contourpy==1.3.1
+cubinlinker-cu11==0.3.0.post2
+cuda-python==11.8.3
+cudf-cu11==23.4.0
+cupy-cuda11x==11.6.0
+cycler==0.12.1
+dask==2023.3.2
+dask-cudf-cu11==23.4.0
+debugpy==1.8.6
+decorator==5.1.1
+distributed==2023.3.2.1
+exceptiongroup==1.2.2
+executing==2.1.0
+fastrlock==0.8.2
+fonttools==4.57.0
+importlib_metadata==8.5.0
+ipykernel==6.29.5
+ipython==8.28.0
+jedi==0.19.1
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+kiwisolver==1.4.8
+locket==1.0.0
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+msgpack==1.1.0
+nest-asyncio==1.6.0
+numexpr @ file:///croot/numexpr_1730215937391/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp310-cp310-linux_x86_64.whl#sha256=d8cd837ed43e87f77e6efaa08e8de927ca030a1c9c5d04624432d6fb9a74a5ee
+nvtx==0.2.10
+packaging==24.2
+pandas @ file:///croot/pandas_1702317985682/work/dist/pandas-2.1.4-cp310-cp310-linux_x86_64.whl#sha256=dcdb9c0337e13fd44ae36b0cc0437403549fd0bc4ab98d7550aa3564748c6736
+parso==0.8.4
+partd==1.4.2
+pexpect==4.9.0
+pillow==11.2.1
+platformdirs==4.3.6
+prompt_toolkit==3.0.48
+psutil==6.0.0
+ptxcompiler-cu11==0.8.1.post2
+ptyprocess==0.7.0
+pure_eval==0.2.3
+pyarrow @ file:///croot/pyarrow_1738229418212/work/python
+Pygments==2.18.0
+pyparsing==3.2.3
+pyspark==3.3.1
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz @ file:///croot/pytz_1713974312559/work
+PyYAML==6.0.2
+pyzmq==26.2.0
+rmm-cu11==23.4.1
+six @ file:///croot/six_1744271502820/work
+sortedcontainers==2.4.0
+stack-data==0.6.3
+tblib==3.0.0
+toolz==1.0.0
+tornado==6.4.1
+traitlets==5.14.3
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+wcwidth==0.2.13
+zict==3.0.0
+zipp==3.20.2

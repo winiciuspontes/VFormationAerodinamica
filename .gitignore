@@ -1,0 +1,21 @@
+# Ignorar cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar arquivos temporários do sistema
+*.DS_Store
+*.swp
+*.swo
+
+# Ignorar diretórios de saída
+output/
+*.png
+
+# Ignorar ambientes virtuais (caso use)
+env/
+.venv/
+
+# Arquivos de log
+*.log
