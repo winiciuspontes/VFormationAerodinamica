@@ -72,33 +72,6 @@ Todas com:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-VFormationAerodinamica/
-├── main.py
-├── aeronave.py
-├── sustentacao.py
-├── output/
-│   ├── formacao_resultados.csv
-│   ├── formacao_3d.png
-│   ├── grafico_Cl_vs_angulo.png
-│   └── grafico_Cdi_vs_angulo.png
-└── README.md
-```
-
----
-
-## 📊 Resultados Gerados
-
-Durante a execução do script, os seguintes artefatos são criados:
-
-- **Tabela CSV**: coeficientes $C_L$ e $C_{D,i}$ para cada aeronave
-- **Gráfico 3D**: visualização espacial da formação
-- **Gráficos de análise paramétrica**: $C_L$ e $C_{D,i}$ em função do ângulo das alas
-
----
-
 ## Requisitos
 
 Certifique-se de ter instalado o Python (versão >= 3.8). As bibliotecas necessárias estão listadas no arquivo `requirements.txt`.
