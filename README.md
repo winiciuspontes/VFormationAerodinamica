@@ -1,8 +1,6 @@
 # 🛩️ Simulação de Formação de Voo com a Teoria da Linha de Sustentação de Prandtl
 
 Este projeto visa simular os efeitos aerodinâmicos de uma formação de voo utilizando a **Teoria da Linha de Sustentação**. A implementação computacional calcula os coeficientes de sustentação $C_L$ e de arrasto induzido $C_{D,i}$ de cada aeronave na formação, levando em conta as interações aerodinâmicas entre elas.
-Estudo do impacto de formação em voo nos coeficientes de sustentação e arrasto induzido utilizando a teoria da linha de sustentação de Prandtl.
-VFormationAerodinamica
 ---
 
 ## 📚 Fundamentos Teóricos
